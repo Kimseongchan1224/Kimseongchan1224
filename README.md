@@ -26,8 +26,9 @@
 ###  <div align=center>  😄 KIM SEONGCHAN 😄 </div>
 
 <div align=center>
-🌱 I'm trying to be a good developer <br>
-🌱 I am attending Shingu University  <br>
+📖 I'm trying to be a good developer    <br> <br> <br>
+🏫 I am a student at Shingu University  <br> <br> <br>
+🎮 
 
 </div>
 <div align=center>	
