@@ -24,7 +24,7 @@
 </div>
 <hr>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/kimseongchan1224/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
 
  
 
