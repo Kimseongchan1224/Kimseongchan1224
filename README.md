@@ -27,7 +27,7 @@
 <br>
 <br>
 <div align=center>
-📖 I'm trying to be a good developer    <br> <br> <br>
+📖 I'm trying to be a good developer    <br> <br> 
 🏫 I am a student at Shingu University  <br> <br> <br>
 🎮 
 
