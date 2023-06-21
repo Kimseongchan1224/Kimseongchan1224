@@ -22,6 +22,17 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseongchan1224&show_icons=true&theme=vue)
+
+</div>
+
+<div align=center>
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseongchan1224&layout=compact)
+ 
+</div>
+<div align=center>   
+
 <!--
 **Kimseongchan1224/Kimseongchan1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
