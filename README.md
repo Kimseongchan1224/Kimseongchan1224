@@ -25,6 +25,11 @@
 
 ###  <div align=center>  😄 KIM SEONGCHAN 😄 </div>
 
+<div align=center>
+🌱 I'm trying to be a good developer
+🌱 I am attending Shingu University
+
+</div>
 <div align=center>	
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseongchan1224&show_icons=true&theme=vue)
