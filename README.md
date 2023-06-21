@@ -1,7 +1,8 @@
 ### <div align=center> 코딩을 배우고 있는 학생의 페이지 입니다. 안녕하세요! </div>
 
+<div align=center> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20My%20Page&fontSize=90&animation=fadeIn&fontAlignY=38&des&descAlignY=51&descAlign=62)
-
+ </div>
 
 ### <div align=center>Study Language </div>
 <div align=center>
